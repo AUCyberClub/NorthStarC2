@@ -6,7 +6,7 @@ NorthStarC2 is an open-source command and control framework developed for educat
 <br>
 NorthStar C2 Framework consists of two applications, a server-side GUI web application for managing sessions and a client-side stager to communicate with C2 server.
 
-Original repository can be found here: [NorthStarC2(https://github.com/EnginDemirbilek/NorthStarC2/wiki)
+Original repository can be found here: [NorthStarC2](https://github.com/EnginDemirbilek/NorthStarC2)
 
 # Quick Installation
 
