@@ -6,7 +6,7 @@ NorthStarC2 is an open-source command and control framework developed for educat
 <br>
 NorthStar C2 Framework consists of two applications, a server-side GUI web application for managing sessions and a client-side stager to communicate with C2 server.
 
-Original repository can be found here: [NorthStarC2](https://github.com/EnginDemirbilek/NorthStarC2)
+**This is an imported repository and may not be up-to-date.** To get latest updates check out original repository: [NorthStarC2](https://github.com/EnginDemirbilek/NorthStarC2)
 
 # Quick Installation
 
@@ -18,14 +18,14 @@ Original repository can be found here: [NorthStarC2](https://github.com/EnginDem
 <br>
  `sudo ./install.sh`
 
-In order to install the NorthStar C2 properly and get the best experience possible, please refer to [Wiki page](https://github.com/EnginDemirbilek/NorthStarC2/wiki)
+In order to install the NorthStar C2 properly and get the best experience possible, please refer to [Wiki page](https://github.com/AUCyberClub/NorthStarC2/wiki)
 
 
 # NorthStarC2 Features
 
 
 This project is being maintained and updated constantly so make sure to check back for new features and modules! See
-[Roadmap](https://github.com/EnginDemirbilek/NorthStarC2/wiki/Roadmap).
+[Roadmap](https://github.com/AUCyberClub/NorthStarC2/wiki/Roadmap).
 
 Languages ​​and technologies used in the NorthStar C2:
 <br>
