@@ -4,7 +4,7 @@
 $servername = "localhost";
 $username = "USERNAMEHERE";
 $password = "PASSWORDHERE";
-$dbname = "DBNAMEHERE";
+$dbname = "DBHERE";
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
